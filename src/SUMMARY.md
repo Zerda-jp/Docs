@@ -1,5 +1,5 @@
 # Summary
 
-[Zerda.jpについて](index.md)
+[はじめに](index.md)
 
 - [Sensについて](sens.md)
