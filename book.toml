@@ -1,0 +1,6 @@
+[book]
+authors = ["u2ra"]
+language = "ja"
+multilingual = false
+src = "src"
+title = "Project Zerda"
