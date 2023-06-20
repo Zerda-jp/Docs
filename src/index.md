@@ -17,13 +17,10 @@
 開発はDAO的な感じで、Discordサーバーと[Dework](https://app.dework.xyz/zerda)を使用して、全員が進捗を見れて参加できて応援できての全員幸せプロジェクト開始します。
 
 TwitterとDiscordサーバーを貼っておくので、もし興味あれば気軽にコンタクトください！
-### [Twitter](https://twitter.com/be4rk_)
-### [Discord](https://discord.gg/4qeRU2Kddm)
-### [進捗管理はこちら](https://app.dework.xyz/zerda)
-
-
-↓やりたいことはこちらにまとめてまーす！↓
-
+### [・Twitter](https://twitter.com/be4rk_)
+### [・Discord](https://discord.gg/4qeRU2Kddm)
+### [・進捗管理はこちら](https://app.dework.xyz/zerda)
 ## [今後追加したい機能](今後追加したい機能.md)
+↑やりたいことはこちらにまとめてまーす！↑
 
 
