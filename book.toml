@@ -5,5 +5,5 @@ multilingual = false
 src = "src"
 title = "Project Zerda"
 [output.html]
-git-repository-url = "https://github.com/Zerda-jp/Docs"
+git-repository-url = "https://github.com/Zerda-jp"
 favicon = "favicon.ico"
